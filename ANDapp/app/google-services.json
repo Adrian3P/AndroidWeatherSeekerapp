@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624221907481",
+    "firebase_url": "https://weather-seeker.firebaseio.com",
+    "project_id": "weather-seeker",
+    "storage_bucket": "weather-seeker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624221907481:android:e49b8d9d521756ed82d888",
+        "android_client_info": {
+          "package_name": "com.example.weatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624221907481-fhh66dha7740am8av6o897av7rf1hemh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weatherapp",
+            "certificate_hash": "d1b3ac84eafca362629f2707a9aca5e114e67575"
+          }
+        },
+        {
+          "client_id": "624221907481-eiahle6bsob743a0kcmmll448bsq6mee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5ScxhtCaJDHHwYNVojkGl225zG23Oz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624221907481-eiahle6bsob743a0kcmmll448bsq6mee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

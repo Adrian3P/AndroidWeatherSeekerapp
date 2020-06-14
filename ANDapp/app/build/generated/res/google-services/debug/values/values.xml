@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">624221907481-eiahle6bsob743a0kcmmll448bsq6mee.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://weather-seeker.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">624221907481</string>
+    <string name="google_api_key" translatable="false">AIzaSyDc5ScxhtCaJDHHwYNVojkGl225zG23Oz0</string>
+    <string name="google_app_id" translatable="false">1:624221907481:android:e49b8d9d521756ed82d888</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDc5ScxhtCaJDHHwYNVojkGl225zG23Oz0</string>
+    <string name="google_storage_bucket" translatable="false">weather-seeker.appspot.com</string>
+    <string name="project_id" translatable="false">weather-seeker</string>
+</resources>

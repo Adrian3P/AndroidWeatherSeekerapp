@@ -1,0 +1,7 @@
+#Sat Jun 13 19:48:02 CEST 2020
+base.0=F\:\\1.AND\\Projects Adi\\haha\\ANDapp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=F\:\\1.AND\\Projects Adi\\haha\\ANDapp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\classes.dex
